@@ -1,28 +1,14 @@
-<p align="center"><img src="logo.png" width="120" alt="Visync"></p>
+<p align="center"><img src="logo.png" width="110" alt="Visync"></p>
 
-# Visync
+<h1 align="center">Visync</h1>
+<p align="center"><b>Small apps, made with care.</b><br>Free to download · Not open source</p>
 
-**Small, polished apps.** One at a time, made with care: simple to use, fair to your privacy, and the same quality on every screen.
+<p align="center"><a href="https://github.com/visync-apps/downloads"><b>Download our apps</b></a> &nbsp;·&nbsp; <a href="https://visync.2mnhdbfn5n.workers.dev">Website</a> &nbsp;·&nbsp; <a href="https://sounddrop.samour.ca/donate">Donate</a></p>
 
-## Our apps
-
-| App | What it is | For | Get it |
-|:--|:--|:--|:--|
-| **SoundDrop** | Sound effects for your videos, on every screen you own. | Mac · iPhone · iPad · Windows · Linux · web | [sounddrop.samour.ca](https://sounddrop.samour.ca/download) |
-| **Quillwave** | A music player that lives in your Mac menu bar. | Mac | [Download](https://github.com/visync-apps/downloads/releases/tag/quillwave-4.6) |
-| **Glow** | Your Philips Hue lights, from the menu bar. | Mac | [Download](https://github.com/visync-apps/downloads/releases/tag/glow-2026.0.1) |
-| **Fetch** | Save video or audio from the links you choose. | Mac · Windows | [Download](https://github.com/visync-apps/downloads/releases/tag/fetch-2026.0.1) |
-| **Shelf Setup** | Turn a USB drive into a drive of apps. | Mac | [Download](https://github.com/visync-apps/downloads/releases/tag/shelf-setup-2026.0.1) |
-
-**All downloads, with simple steps for opening them the first time: [visync-apps/downloads](https://github.com/visync-apps/downloads)**
-
-The apps are free to download and are not open source.
-
-## Help and support
-
-- Questions and help: https://sounddrop.samour.ca/support
-- Support Visync: https://sounddrop.samour.ca/donate
-
-## About
-
-Visync is an independent studio. Every app keeps what it stores about you to a minimum.
+| App | What it does |
+|:--|:--|
+| **[SoundDrop](https://sounddrop.samour.ca)** | Sound effects for your videos |
+| **[Quillwave](https://github.com/visync-apps/downloads/releases/tag/quillwave-4.6)** | A music player in your menu bar |
+| **[Glow](https://github.com/visync-apps/downloads/releases/tag/glow-2026.0.1)** | Your Philips Hue lights, from the menu bar |
+| **[Fetch](https://github.com/visync-apps/downloads/releases/tag/fetch-2026.0.1)** | Save video or audio from links you choose |
+| **[Shelf Setup](https://github.com/visync-apps/downloads/releases/tag/shelf-setup-2026.0.1)** | Turn a USB drive into a drive of apps |
